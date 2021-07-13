@@ -2,6 +2,11 @@
 
 @import url('https:fonts.googleapis.com/icon?family=Material+Icons');
 
+/* *{
+    padding: 0;
+    margin: 0;
+    
+} */
 hr {
     margin: 2rem 0rem;
 }
